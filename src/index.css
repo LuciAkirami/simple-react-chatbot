@@ -5,3 +5,14 @@
 /* .flex-grow {
   scrollbar-gutter: stable;
 } */
+
+/* to hide scrollbar */
+/* *::-webkit-scrollbar {
+  display: none;
+} */
+
+:root {
+  background-image: url("../public/bgImage.jpg");
+  background-size: cover;
+  background-position: center;
+}
